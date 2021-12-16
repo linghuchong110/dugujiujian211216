@@ -4,6 +4,7 @@ public class newjianfa {
         System.out.println("jianfa！！1");
         System.out.println("jianfa！！1");
         System.out.println("jianfa！！1");
+        System.out.println("jianfa！！1");
 
     }
 }
