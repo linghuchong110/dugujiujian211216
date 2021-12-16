@@ -3,6 +3,6 @@ public class newjianfa {
         System.out.println("新剑法");
         System.out.println("新剑法");
         System.out.println("新剑法");
-        System.out.println("新剑法");
+        System.out.println("新剑法`121212");
     }
 }
