@@ -7,5 +7,12 @@ public class Dugu {
         System.out.println("jianfa dugujiujian!!!!!!!!!!!!");
         System.out.println("jianfa dugujiujian!!!!!!!!!!!!");
 
+        System.out.println("jianfa dugujiujian大概!!!???/?!!!!!");
+        System.out.println("jianfa dugujiujd!!!");
+
+        System.out.println("jianfa dugujiujiandf  !ddf  d!!!!");
+        System.out.println("jianfa dugujiujian!! 二分二 f 分才df !!");
+
+
     }
 }
