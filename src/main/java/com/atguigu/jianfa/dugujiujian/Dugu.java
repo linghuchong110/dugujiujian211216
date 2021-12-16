@@ -6,7 +6,7 @@ public class Dugu {
         System.out.println("jianfa dugujiujd!!!");
 
         System.out.println("jianfa dugujiujian!ddf  d!!!!");
-        System.out.println("jianfa dugujiujian!! 二分二分df !!");
+        System.out.println("jianfa dugujiujian!! 二分二分才df !!");
 
 
     }
